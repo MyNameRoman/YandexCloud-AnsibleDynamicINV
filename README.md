@@ -72,4 +72,3 @@ ansible -i yc_inventory.py 84.252.142.56 -m ping
 
 ## Лицензия
 [MIT License](LICENSE)
-```
