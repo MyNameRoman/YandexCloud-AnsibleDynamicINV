@@ -57,7 +57,7 @@ ansible all -i yc_inventory.py -m ping
 
 ### 3. Проверка конкретной машины
 ```bash
-ansible -i yc_inventory.py 84.252.142.56 -m ping
+ansible -i yc_inventory.py (Ваш IP адрес) -m ping
 ```
 
 ## Конфигурация
